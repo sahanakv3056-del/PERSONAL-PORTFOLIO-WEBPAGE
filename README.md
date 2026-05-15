@@ -17,3 +17,5 @@ It contains different sections like Home, Skills, Testimony, and Contact.
 The website is fully responsive and user-friendly. 
 Images, icons, and styling are added to make the portfolio attractive and professional. 
 This project helps to showcase personal skills, projects, and contact information in a simple and modern way.
+
+OUTPUT: https://drive.google.com/file/d/1IrnuJopRf3mdwzJNf0znigYSwoC32Tgl/view?usp=sharing
